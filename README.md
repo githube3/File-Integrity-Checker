@@ -59,7 +59,7 @@ To set up and execute the project, the following were installed:
 
 Step 1 : Clone the Repository
 
-          git clone 
+          git clone https://github.com/githube3/File-Integrity-Checker
 
 Step 2 : Navigate to the Project Directory
 
